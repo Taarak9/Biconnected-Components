@@ -1,4 +1,4 @@
-# Biconnected-Component
+# Biconnected-Components
 Compute Biconnected Components of a graph
 
 Input:
