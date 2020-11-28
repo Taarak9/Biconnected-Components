@@ -1,0 +1,11 @@
+Biconnected Component 1:
+{(1,2)}
+
+Biconnected Component 2:
+{(2,3)}
+
+Biconnected Component 3:
+{(3,4)}
+
+Biconnected Component 4:
+{(4,5)}
